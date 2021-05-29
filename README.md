@@ -9,11 +9,15 @@
   
   <h2>Developers:</h2>
   <li>
-    github.com/ttheholyone
+    https://github.com/ttheholyone
   </li>
   <li>
-    github.com/5nx
+    https://github.com/5nx
   </li>
 <li>
   https://github.com/Mysa99
   </li>
+  <h2>Contributors:</h2>
+  <li>
+    NONE SO FAR
+    </li>
