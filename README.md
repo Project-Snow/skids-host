@@ -9,6 +9,8 @@
   
   <h2>Developers:</h2>
   <li>
-    <p>github.com/5nx</p>
-    <p>github.com/ttheholyone</p>
+    github.com/ttheholyone
+  </li>
+  <li>
+    github.com/5nx
   </li>
